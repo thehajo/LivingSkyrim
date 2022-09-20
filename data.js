@@ -1647,7 +1647,7 @@
           deps: [0],
 		}, {
           name: 'Hotwire',
-          desc: ['VKR_Loc_060_Hotwire_Perk'],
+          desc: ['Can lockpick an automaton under Lockdown to reprogram it, making it follow you and fight for you.'],
           req: [60],
           pos: [2, -121],
           deps: [4],
